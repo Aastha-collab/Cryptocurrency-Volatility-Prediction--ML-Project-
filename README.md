@@ -1,6 +1,5 @@
 # Cryptocurrency Volatility Prediction--ML Project
 
-'''
 
 # **1. Project Structure**
 
