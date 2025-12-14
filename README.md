@@ -1,12 +1,14 @@
-## Cryptocurrency Volatility Prediction--ML Project
+# Cryptocurrency Volatility Prediction--ML Project
 
-# Project Structure
+'''
+
+# **1. Project Structure**
 
 ```
 Crypto-Volatility-Prediction/
 │
 ├── data/
-│   └── crypto_dataset.csv
+│   └── dataset.csv
 │
 ├── notebooks/
 │   ├── EDA.ipynb
@@ -20,7 +22,7 @@ Crypto-Volatility-Prediction/
 │   ├── model_evaluation.py
 │
 ├── app/
-│   └── streamlit_app.py
+│   └── joblib_app.py
 │
 ├── models/
 │   └── random_forest_model.pkl
@@ -172,7 +174,7 @@ Raw Data → Preprocessing → Feature Engineering → ML Model → Prediction �
 
 ---
 
-# 🔁 **6. Pipeline Architecture & Documentation**
+# **6. Pipeline Architecture & Documentation**
 
 ### ML Pipeline Steps
 
@@ -193,7 +195,7 @@ Raw Data → Preprocessing → Feature Engineering → ML Model → Prediction �
 
 ---
 
-# 📈 **7. Model Training & Evaluation**
+# **7. Model Training & Evaluation**
 
 ### Model Used
 
